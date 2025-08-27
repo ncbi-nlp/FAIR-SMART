@@ -1,4 +1,4 @@
-# Format Converter for FAIR-SMart
+# Format Converter for FAIR-SMART
 
 A robust Java tool that converts PubMed Central (PMC) **supplementary materials (SM)** into the interoperable **[BioC](https://bioc.sourceforge.net/)** format for research transparency.
 Download the prebuilt  **[JAR](https://ftp.ncbi.nlm.nih.gov/pub/lu/PMCSMBioC/FormatConverter.zip)** .
@@ -70,13 +70,14 @@ java -jar FormatConverter.jar [inputfile] [outputfile] [output format:BioC|PubTa
 
 ## Citation
 
-If you use **FAIR-SMart** or this converter, please cite our paper:
+If you use **FAIR-SMART** or this converter, please cite our paper:
 
 > Wei C‑H, Leaman R, Lai P‑T, Comeau D, Tian S, Lu Z. *No Data Left Behind: FAIR-SMart Enables FAIR Access to Supplementary Materials for Research Transparency.* PLOS Biology. 2025.
 
 ## License
 
 Apache License 2.0. See `LICENSE` for details.
+
 
 
 
