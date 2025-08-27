@@ -72,11 +72,12 @@ java -jar FormatConverter.jar [inputfile] [outputfile] [output format:BioC|PubTa
 
 If you use **FAIR-SMART** or this converter, please cite our paper:
 
-> Wei C‑H, Leaman R, Lai P‑T, Comeau D, Tian S, Lu Z. *No Data Left Behind: FAIR-SMart Enables FAIR Access to Supplementary Materials for Research Transparency.* PLOS Biology. 2025.
+> Wei C‑H, Leaman R, Lai P‑T, Comeau D, Tian S, Lu Z. *No Data Left Behind: Enhancing FAIR Access to Supplementary Materials for Research Transparency * PLOS Biology. 2025.
 
 ## License
 
 Apache License 2.0. See `LICENSE` for details.
+
 
 
 
