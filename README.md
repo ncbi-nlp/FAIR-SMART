@@ -7,7 +7,7 @@ Download the prebuilt  **[JAR](https://ftp.ncbi.nlm.nih.gov/pub/lu/PMCSMBioC/For
 
 ## Overview
 
-The Format Converter ingests supplementary material files (PDF, Word, Excel, CSV/TSV, simple HTML) and emits **BioC XML** (optionally BioC JSON) with consistent structure, provenance, and metadata. It is designed for batch conversion and integration with biomedical NLP pipelines.
+The Format Converter ingests supplementary material files (PDF, Word, Excel, CSV/TSV, simple HTML) and emits **BioC XML** (optionally BioC JSON) with consistent structure, provenance, and metadata. It is designed for batch conversion and integration with biomedical NLP pipelines.**[FAIR-SMART API]([https://ftp.ncbi.nlm.nih.gov/pub/lu/PMCSMBioC/FormatConverter.zip](https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/FAIR-SMART/)** .
 
 ## Features
 
@@ -77,6 +77,7 @@ If you use **FAIR-SMART** or this converter, please cite our paper:
 ## License
 
 Apache License 2.0. See `LICENSE` for details.
+
 
 
 
